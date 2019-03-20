@@ -1,0 +1,8 @@
+[17-Jun-2017 22:11:49 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home3/maxwell/public_html/pages/menu.php on line 18
+[17-Jun-2017 22:11:49 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home3/maxwell/public_html/pages/menu.php on line 18
+[17-Jun-2017 22:11:49 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/maxwell/public_html/pages/menu.php on line 18
+[17-Jun-2017 22:11:49 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home3/maxwell/public_html/pages/menu.php on line 18
+[17-Jun-2017 22:11:49 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home3/maxwell/public_html/pages/menu.php on line 52
+[17-Jun-2017 22:11:49 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home3/maxwell/public_html/pages/menu.php on line 52
+[17-Jun-2017 22:11:49 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/maxwell/public_html/pages/menu.php on line 52
+[17-Jun-2017 22:11:49 America/Chicago] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home3/maxwell/public_html/pages/menu.php on line 52
